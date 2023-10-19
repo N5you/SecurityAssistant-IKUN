@@ -16,7 +16,7 @@
 
 # 使用说明
 
-![安全助手坤坤]([https://github.com/N5you/SecurityAssistant-IKUN/blob/main/20231018231637.png])
+![安全助手坤坤]([https://z1.ax1x.com/2023/10/17/piCq8w4.png])
 
 # 参与贡献
 
